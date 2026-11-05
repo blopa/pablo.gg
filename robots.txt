@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://pablo.gg
+Sitemap: https://pablo.gg/sitemap.xml
